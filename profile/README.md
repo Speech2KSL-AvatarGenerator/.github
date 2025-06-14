@@ -54,3 +54,11 @@
 
 <br>
 <br>
+
+## 📚 세부 기능별 README 및 Repository 링크
+|  README 링크                                                                                                                   |  GitHub Repository                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| [Speech2SignTranslation - README.md](https://github.com/Speech2KSL-AvatarGenerator/Speech2SignTranslation/blob/main/README.md) | [Speech2SignTranslation](https://github.com/Speech2KSL-AvatarGenerator/Speech2SignTranslation) |
+| [SignAvatarGeneration - README.md](https://github.com/Speech2KSL-AvatarGenerator/SignAvatarGeneration/blob/main/README.md)     | [SignAvatarGeneration](https://github.com/Speech2KSL-AvatarGenerator/SignAvatarGeneration)     |
+| [SignAvatarApp-suddy - README.md](https://github.com/Speech2KSL-AvatarGenerator/SignAvatarApp-suddy/blob/main/README.md)       | [SignAvatarApp-suddy](https://github.com/Speech2KSL-AvatarGenerator/SignAvatarApp-suddy)       |
+
